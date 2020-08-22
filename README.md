@@ -2,6 +2,6 @@
 
 Simple app with bloc library and jsonplaceholder api
 
-<img src="./screenshots/photos.png">
-<img src="./screenshots/todos.png">
-<img src="./screenshots/posts.png">
+| Photos                                  | Posts                                 | Todos                                   |
+| --------------------------------------- | ------------------------------------- | --------------------------------------- |
+| ![Photos tab](./screenshots/photos.png) | ![Posts tab](./screenshots/posts.png) | ![Photos tab](./screenshots/photos.png) |
