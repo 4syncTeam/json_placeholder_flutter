@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
         BlocProvider(create: (BuildContext context) => TodoBloc()),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         routes: {
           '/': (context) => HomeScreen(),
         },
